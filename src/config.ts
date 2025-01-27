@@ -1,5 +1,4 @@
 import type {Proxy} from './util/model';
-import Github from './template/github';
 
 export let PORT = 377; // 端口
 
